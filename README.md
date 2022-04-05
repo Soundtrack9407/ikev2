@@ -1,2 +1,1 @@
-# ikev2
-IKEv2 Script
+# IKEv2 Script
